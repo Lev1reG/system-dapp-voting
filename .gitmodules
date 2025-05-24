@@ -1,0 +1,6 @@
+[submodule "fe-dapp-voting"]
+	path = fe-dapp-voting
+	url = git@github.com:Lev1reG/fe-dapp-voting.git
+[submodule "contract-dapp-voting"]
+	path = contract-dapp-voting
+	url = git@github.com:Lev1reG/contract-dapp-voting.git
