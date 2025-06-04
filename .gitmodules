@@ -4,3 +4,6 @@
 [submodule "contract-dapp-voting"]
 	path = contract-dapp-voting
 	url = git@github.com:Lev1reG/contract-dapp-voting.git
+[submodule "oracle-dapp-voting"]
+	path = oracle-dapp-voting
+	url = git@github.com:eben4ya/oracle-dapp-voting.git
