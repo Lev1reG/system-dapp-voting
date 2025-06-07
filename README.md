@@ -2,7 +2,7 @@
 
 > 🚀 A decentralized voting application composed of three services:
 >
-> 1. **Smart Contracts** (Solidity)
+> 1. **Smart Contracts** (Solidity & Foundry)
 > 2. **Frontend** (Next.js + Wagmi + RainbowKit)
 > 3. **Oracle Service** (Express.js)
 
@@ -12,9 +12,9 @@
 
 ```
 system-dapp-voting/
-├── contract-dapp-voting/src       # Solidity smart contracts
+├── contract-dapp-voting/src       # Solidity smart contracts (submodule)
 │   └── ...
-├── fe-dapp-voting/                # Next.js frontend application
+├── fe-dapp-voting/                # Next.js frontend application (submodule)
 │   └── ...
 ├── oracle-dapp-voting/            # Oracle client (submodule)
 │   └── ...
