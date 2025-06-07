@@ -12,7 +12,7 @@
 
 ```
 system-dapp-voting/
-├── contract-dapp-voting/src       # Solidity smart contracts (submodule)
+├── contract-dapp-voting           # Solidity smart contracts (submodule)
 │   └── ...
 ├── fe-dapp-voting/                # Next.js frontend application (submodule)
 │   └── ...
