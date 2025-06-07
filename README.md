@@ -13,12 +13,11 @@
 ```
 system-dapp-voting/
 ├── contract-dapp-voting/src       # Solidity smart contracts
-│   └── Voting.sol
+│   └── ...
 ├── fe-dapp-voting/                # Next.js frontend application
 │   └── ...
 ├── oracle-dapp-voting/            # Oracle client (submodule)
 │   └── ...
-├── foundry.toml        # Foundry configuration
 └── README.md           # (this file)
 ```
 
